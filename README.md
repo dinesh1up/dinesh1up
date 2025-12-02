@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
-<h3 align="center">A passionate data researcher & data analyst from India</h3>
+<h3 align="center">Data & Research Professional | Analytics, Dashboards & Insights from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh1up&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh1up" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh1up" alt="dinesh1up" /></a> </p>
 
-- 🔭 I’m currently working on **21 Days of SQL challenge**
+- 🔭 I’m currently working on **24 Days of SQL challenge**
+
+- 🌱 I’m currently learning **Advanced SQL and Power BI to strengthen my data analytics toolkit and Techniques for data storytelling and effective reporting**
+
+- 👯 I’m looking to collaborate on **SQL projects, Data Analytics, Data Research**
+
+- 🤝 I’m looking for help with **Support with finding global data/research analyst opportunities**
+
+- 💬 Ask me about **Data Research techniques, primary research, secondary research**
+
+- 📫 How to reach me **dkumar.careerconnect@gmail.com**
+
+- ⚡ Fun fact **I like exploring cafés while working on data projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
